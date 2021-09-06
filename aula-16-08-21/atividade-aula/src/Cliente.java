@@ -1,7 +1,5 @@
 public class Cliente {
-  String nome;
-  String email;
-  String dataNasc;
+  String nome, email, dataNasc;
 
   public String comprarCurso(String nomeCurso) {
 
@@ -12,7 +10,7 @@ public class Cliente {
 
   public String avaliarCurso(String nomeCurso, int nota) {
 
-    String msg = "Olá " + nome + "!\n A nota " + nota + " foi atribuida ao curso: " + nomeCurso;
+    String msg = "Olá " + nome + "!\nA nota " + nota + " foi atribuida ao curso: " + nomeCurso;
 
     return msg;
   }

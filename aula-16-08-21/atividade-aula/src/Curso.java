@@ -1,7 +1,5 @@
 public class Curso {
-  String nome;
-  String assunto;
-  String dataCurso;
+  String nome, assunto, dataCurso;
 
   public String assistirCurso(String nomeCurso) {
     this.nome = nomeCurso;
