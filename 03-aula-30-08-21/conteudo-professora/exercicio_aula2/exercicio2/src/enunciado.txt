@@ -1,0 +1,5 @@
+Considere os diagramas UML dos seguintes itens, 
+observe que cada item possue 2 construtores distintos.
+ Construa o código das respectivas classes e crie 2 objetos de cada uma 
+ e os preencha com dados fornecidos pelo usuário. Exiba os dados dos
+  objetos.
